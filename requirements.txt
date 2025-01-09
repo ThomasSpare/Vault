@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+httpx
+pydantic
+torch
+tensorflow
+Pillow
+numpy
+transformers
+librosa
+opencv-python
+aiohttp==3.9.1
+aiofiles==23.2.1
+python-multipart==0.0.6
+moviepy==1.0.3
+ffmpeg-python==0.2.0
